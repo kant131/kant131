@@ -5,7 +5,7 @@
 
 I'm a developer who spends most of my days turning coffee ☕ into code, ideas into reality, and "small changes" into unexpected adventures. 🚀
 
-My developer journey is not just about building things — it's about curiosity, creativity, endless learning, and the beautiful chaos of solving problems that sometimes didn't exist yesterday. 😄
+My developer journey is not just about building things - it's about curiosity, creativity, endless learning, and the beautiful chaos of solving problems that sometimes didn't exist yesterday. 😄
 
 I believe every great product starts with a dream, every bug has a lesson, and every "it works on my machine" deserves a little celebration. 🎉
 
