@@ -1,12 +1,22 @@
-
-<div>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=xcho7i.xcho7i&"  />
-</div>
-
 ###
 
 # 💫 About Me:
-Hello! I'm Kant, a passionate JavaScript developer specializing in creating innovative web solutions and user-friendly interfaces. As the contributor of the OlovaJS UI Framework, I'm dedicated to simplifying development workflows.<br><br>My focus is on making web development faster, easier, and accessible to all developers. Currently, I'm expanding into backend development to grow as a full-stack developer and create seamless, robust web applications.<br><br>I'm a lifelong learner and innovator, driven by a desire to contribute to the developer community with new ideas and tools that deliver real value. As the creator of OlovaJS, I'm pushing the boundaries of JavaScript frameworks to empower developers worldwide.
+👋 Hello, fellow humans and fellow bugs!
+
+I'm a developer who spends most of my days turning coffee ☕ into code, ideas into reality, and "small changes" into unexpected adventures. 🚀
+
+My developer journey is not just about building things — it's about curiosity, creativity, endless learning, and the beautiful chaos of solving problems that sometimes didn't exist yesterday. 😄
+
+I believe every great product starts with a dream, every bug has a lesson, and every "it works on my machine" deserves a little celebration. 🎉
+
+When I'm not chasing ideas, I'm probably asking myself:
+"Can this be automated?" 🤔  
+"Why is this broken?" 🐛  
+"Did I really fix it, or did I just create a new problem?" 😂
+
+My dream is simple: keep creating, keep learning, and leave the developer world a little better than I found it. 🌎✨
+
+Here's to late nights, big ideas, small victories, and the never-ending adventure of being a developer. 💻❤️
 
 
 # 💻 Tech Stack:
