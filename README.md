@@ -6,7 +6,7 @@
 ###
 
 # 💫 About Me:
-Hello! I'm Daniel Zhang, a passionate JavaScript developer specializing in creating innovative web solutions and user-friendly interfaces. As the contributor of the OlovaJS UI Framework, I'm dedicated to simplifying development workflows.<br><br>My focus is on making web development faster, easier, and accessible to all developers. Currently, I'm expanding into backend development to grow as a full-stack developer and create seamless, robust web applications.<br><br>I'm a lifelong learner and innovator, driven by a desire to contribute to the developer community with new ideas and tools that deliver real value. As the creator of OlovaJS, I'm pushing the boundaries of JavaScript frameworks to empower developers worldwide.
+Hello! I'm Kant, a passionate JavaScript developer specializing in creating innovative web solutions and user-friendly interfaces. As the contributor of the OlovaJS UI Framework, I'm dedicated to simplifying development workflows.<br><br>My focus is on making web development faster, easier, and accessible to all developers. Currently, I'm expanding into backend development to grow as a full-stack developer and create seamless, robust web applications.<br><br>I'm a lifelong learner and innovator, driven by a desire to contribute to the developer community with new ideas and tools that deliver real value. As the creator of OlovaJS, I'm pushing the boundaries of JavaScript frameworks to empower developers worldwide.
 
 
 # 💻 Tech Stack:
